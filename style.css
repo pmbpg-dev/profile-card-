@@ -15,8 +15,8 @@ body {
 }
 
 .card {
-  width: 300px;
-  height: 530px;
+  width: 320px;
+  height: 580px;
   background-color: #fff;
   border-radius: 25px;
   display: flex;
@@ -53,7 +53,7 @@ body {
   margin-bottom: 10px;
 }
 .card p {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  /* font-family: Arial, Helvetica, sans-serif; */
   text-align: left;
   width: 100%;
 }
